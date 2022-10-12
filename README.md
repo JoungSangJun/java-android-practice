@@ -6,3 +6,4 @@
 |02. Pet|RadioGroup과 RadioButton을 사용하여 원하는 동물의 이미지를 화면에 출력|
 |03. Reservation|Chronometer, CalendarView, TimePicker를 활용하여 예약페이지 구현|
 |04. Activity|Intent클래스를 활용하여 Activity간 화면전환을 구현|
+|05. Girlgroup|Android 내부 DB인 SQLiteDatabase를 사용하여 CRUD를 구현|
