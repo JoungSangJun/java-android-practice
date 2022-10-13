@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원가입화면"
+        android:textSize="50sp" />
+
+    <EditText
+        android:id="@+id/jId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ID: 가입할 ID를 입력해 주세요."
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/jPw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="가입할 비밀번호를 입력해 주세요."
+        android:password="true"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/j_Registration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:text="회원가입"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/j_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="메인가기"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+
+</LinearLayout>
