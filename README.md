@@ -7,3 +7,4 @@
 |03. Reservation|Chronometer, CalendarView, TimePicker를 활용하여 예약페이지 구현|
 |04. Activity|Intent클래스를 활용하여 Activity간 화면전환을 구현|
 |05. Girlgroup|Android 내부 DB인 SQLiteDatabase를 사용하여 CRUD를 구현|
+|06. Login|myDBHelper, SQLiteDatabase을 활용하여 회원가입 및 로그인 구현|
