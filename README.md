@@ -9,3 +9,4 @@
 |05. Girlgroup|Android 내부 DB인 SQLiteDatabase를 사용하여 CRUD를 구현|
 |06. Login|myDBHelper, SQLiteDatabase을 활용하여 회원가입 및 로그인 구현|
 |07. Diary|DatePicker를 활용하여 날짜별로 Diary기록할 수 있는 기능 구현|
+|08. RatingBar|크기별로 RatingBar를 만들어 별점채우기 구현|
