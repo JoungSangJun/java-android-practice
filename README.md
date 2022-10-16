@@ -10,3 +10,4 @@
 |06. Login|myDBHelper, SQLiteDatabase을 활용하여 회원가입 및 로그인 구현|
 |07. Diary|DatePicker를 활용하여 날짜별로 Diary기록할 수 있는 기능 구현|
 |08. RatingBar|크기별로 RatingBar를 만들어 별점채우기 구현|
+|09. ListView|ListView를 활용하여 ListViewItem 클릭시 엑티비티 전환|
