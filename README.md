@@ -13,3 +13,4 @@
 |09. ListView|ListView를 활용하여 ListViewItem 클릭시 엑티비티 전환|
 |10. Vote|Intent로 사용자에게 입력받은 투표수 정보를 다른 액티비티로 전달해 출력|
 |11. Intent|입력받은 두 수를 Intent를 사용해 다른 액티비티로 보내 합을 구한뒤 합을 다시 받음|
+|12. Dialog|AlertDialog의 기능들을 활용하여 간단한 버튼 구현|
