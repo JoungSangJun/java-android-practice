@@ -21,3 +21,4 @@
 |17. Gallery|Gallery클래스와 Adapter클래스를 사용해 다양한 영화포스터 출력|
 |18. Spinner|Spinner클래스를 사용하여 Spinner아이템 클릭시 그에맞는 화면 출력|
 |19. WebView|WebView를 사용하여 앱에서 웹페이지 보여주기|
+|20. User|다른 xml inflate해서 입력창 만들기, Toast메시지 커스텀|
